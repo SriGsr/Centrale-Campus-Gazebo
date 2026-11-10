@@ -9,6 +9,7 @@ Team: **Sriram Pandian**, Alap Sherry Suresh, Vishal Chandar Suresh.
 **Demo:** TurtleBot3 driving through the campus in Gazebo.
 ![Campus in Gazebo](media/campus_overview.png)
 ![TurtleBot3 on campus](media/turtlebot.png)
+![TurtleBot3 on campus video](media/Gazebo%20Simulation%20Turtlebot.mov)
 
 ## What I did
 
