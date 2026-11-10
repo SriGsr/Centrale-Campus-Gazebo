@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<sdf version="1.8">
+  <model name="centrale_campus">
+    <static>true</static>
+    <link name="campus">
+      <visual name="visual">
+        <geometry><mesh><uri>model://centrale_campus/meshes/campus.dae</uri></mesh></geometry>
+      </visual>
+      <collision name="collision">
+        <geometry><mesh><uri>model://centrale_campus/meshes/campus.dae</uri></mesh></geometry>
+      </collision>
+    </link>
+  </model>
+</sdf>
